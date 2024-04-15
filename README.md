@@ -1,4 +1,5 @@
-### Olá eu sou o Denis Rodrigues 🤙
+### ✨ Who am I?
+Olá, sou Denis, um profissional de tecnologia com experiência na área de suporte técnico. Atualmente sou estudante de programação com foco em backend e DevOps, me dedicando ao aprendizado de JAVA e Spring.
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
