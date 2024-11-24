@@ -1,5 +1,5 @@
 ### ✨ Who am I?
-Hello, I am Denis, a technology professional with experience in IT support. Currently, I am a programming student focusing on DevOps, dedicating myself to learning DevOps culture. ###
+Hello, I am Denis, a technology professional with experience in IT support. Currently, I am a programming student focusing on DevOps, dedicating myself to learning DevOps culture. 
 
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
