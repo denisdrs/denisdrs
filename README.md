@@ -1,6 +1,5 @@
 ### ✨ Who am I?
-Hello, I am Denis, a technology professional with experience in technical support. Currently, I am a programming student focusing on backend and DevOps, dedicating myself to learning JAVA and Spring.
-###
+Hello, I am Denis, a technology professional with experience in IT support. Currently, I am a programming student focusing on backend development and DevOps, dedicating myself to learning DevOps culture and container orchestration. ###
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
