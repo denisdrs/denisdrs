@@ -1,5 +1,6 @@
 ### ✨ Who am I?
-Hello, I am Denis, a technology professional with experience in IT support. Currently, I am a programming student focusing on DevOps, dedicating myself to learning DevOps culture. 
+Hi, I'm Denis, a technology professional with a background in IT support. I am currently transitioning into DevOps, focusing on mastering DevOps culture, practices, and tools.
+
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
